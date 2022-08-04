@@ -27,7 +27,7 @@ site_description: >-
 
 # Repository
 repo_name: stensil4rt.ru
-repo_url: https://github.com/stensil4rt.ru
+repo_url: https://github.com/stensil4rt
 
 # Copyright
 copyright: Copyright &copy; 2022 stensil4rt
@@ -162,6 +162,18 @@ markdown_extensions:
 # Page tree
 nav:
   - Домашняя: index.md
+  - Blog:
+   - blog/index.md
+   - 2022:
+     - blog/2022/chinese-search-support.md
+   - 2021:
+     - blog/2021/the-past-present-and-future.md
+     - blog/2021/excluding-content-from-search.md
+     - blog/2021/search-better-faster-smaller.md
+  - HackTheBox:
+   - HTB/index.md
+   - 2022:
+     - HTB/2022/start.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
@@ -217,11 +229,3 @@ nav:
     - Getting started:
       - Installation: insiders/getting-started.md
       - Changelog: insiders/changelog.md
-  - Blog:
-    - blog/index.md
-    - 2022:
-      - blog/2022/chinese-search-support.md
-    - 2021:
-      - blog/2021/the-past-present-and-future.md
-      - blog/2021/excluding-content-from-search.md
-      - blog/2021/search-better-faster-smaller.md
