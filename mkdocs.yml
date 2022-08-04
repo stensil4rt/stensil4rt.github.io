@@ -110,10 +110,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/stensil4rt
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+    - icon: fontawesome/brands/wikipedia-w
+      link: https://wiki.alevoz.ru
+    - icon: fontawesome/brands/diagram-project
+      link: https://lab.stensil4rt.ru
     - icon: fontawesome/brands/python
       link: https://pypi.org/project/mkdocs-material/
     - icon: fontawesome/brands/twitter
