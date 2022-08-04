@@ -47,7 +47,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
+  language: ru
   features:
     - content.code.annotate
     # - content.tabs.link
