@@ -8,23 +8,24 @@ hide:
   - feedback
 ---
 
-# Описание
+# HTB - Meow
+
+## Описание
 
 __Это описание коробки  ‘Meow’, входящей в состав лабораторий ‘Starting Point’,
 и имеет оценку сложности  ‘Very Easy’.__
 
 <aside class="mdx-author" markdown>
-![@squidfunk][@squidfunk avatar]
+![@stensil4rt][@stensil4rt avatar]
 
-<span>__Martin Donath__ · @squidfunk</span>
+<span>__stensil 4rt__ · @stensil4rt</span>
 <span>
-:octicons-calendar-24: September 26, 2021 ·
-:octicons-clock-24: 5 min read ·
-[:octicons-tag-24: 7.3.0+insiders-3.1.1][insiders-3.1.1]
+:octicons-calendar-24: Августа 04, 2022 ·
+:octicons-clock-24: 5 мин. чтения ·
 </span>
 </aside>
 
-  [@squidfunk avatar]: https://avatars.githubusercontent.com/u/932156
+  [@stensil4rt avatar]: https://avatars.githubusercontent.com/u/62753044
   [insiders-3.1.1]: ../../insiders/changelog.md#3.1.1
 
 ---
