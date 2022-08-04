@@ -51,6 +51,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stensil4rt.ru/HTB/</loc>
+         <lastmod>2022-08-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stensil4rt.ru/HTB/2022/start/</loc>
+         <lastmod>2022-08-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stensil4rt.ru/blog/</loc>
          <lastmod>2022-08-04</lastmod>
          <changefreq>daily</changefreq>
