@@ -47,3 +47,4 @@ bring some interesting new capabilities.
   
   [@stensil4rt avatar]: https://avatars.githubusercontent.com/u/62753044
   [insiders-3.1.1]: ../../insiders/changelog.md#3.1.1
+  [Первые шаги в HackTheBox]: 2022/start.md
