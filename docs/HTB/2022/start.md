@@ -35,8 +35,15 @@ __Прежде чем приступить к просмотру и тестир
 
 ## Создание VPN 
 
-![image](https://user-images.githubusercontent.com/62753044/182825625-5185483a-cbe2-4327-85e3-db872328caa1.png)
-![image](https://user-images.githubusercontent.com/62753044/182825672-cceacfd5-3df3-4547-b82b-fc5b8a86562f.png)
+<figure markdown>
+  ![image](https://user-images.githubusercontent.com/62753044/182825625-5185483a-cbe2-4327-85e3-db872328caa1.png)
+  <figcaption>VPN</figcaption>
+</figure>
+  
+<figure markdown>
+  ![image](https://user-images.githubusercontent.com/62753044/182825672-cceacfd5-3df3-4547-b82b-fc5b8a86562f.png)
+  <figcaption>VPN</figcaption>
+</figure>
 
 
 
