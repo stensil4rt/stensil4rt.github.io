@@ -28,3 +28,15 @@ __Прежде чем приступить к просмотру и тестир
   [insiders-3.1.1]: ../../insiders/changelog.md#3.1.1
 
 ---
+
+## Регистрация
+
+Ну я думаю Вы это уж и сами выполните =)
+
+## Создание VPN 
+
+![image](https://user-images.githubusercontent.com/62753044/182825625-5185483a-cbe2-4327-85e3-db872328caa1.png)
+![image](https://user-images.githubusercontent.com/62753044/182825672-cceacfd5-3df3-4547-b82b-fc5b8a86562f.png)
+
+
+
