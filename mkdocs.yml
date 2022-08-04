@@ -19,19 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: stensil4rt
+site_url: https://stensil4rt.ru
+site_author: stensil4rt
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+ Мой блог
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: stensil4rt.ru
+repo_url: https://github.com/stensil4rt.ru
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2022 stensil4rt
 
 # Configuration
 theme:
@@ -145,7 +144,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
+      user: stensil4rt
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
@@ -162,7 +161,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Домашняя: index.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
